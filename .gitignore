@@ -1,0 +1,9 @@
+# ignore all .txt files 
+*.txt
+# ignore all others
+*.DS_Store
+*../.DS_Store
+
+
+
+
